@@ -12,6 +12,26 @@ This project analyses nearly six decades of U.S. homicide data to uncover patter
 
 ---
 
+## 📸 Dashboard Previews
+
+### Dashboard 1: Homicide Trends Over Time
+
+![Dashboard 1](images/Dashboard1.png)
+
+---
+
+### Dashboard 2: Geographic & Circumstantial Insights
+
+![Dashboard 2](images/Dashboard2.png)
+
+---
+
+### Dashboard 3: Victim & Offender Demographics
+
+![Dashboard 3](images/Dashboard3.png)
+
+---
+
 ## Tools & Technologies
 
 - Power BI (Data Visualisation & Dashboarding)
@@ -81,16 +101,6 @@ This project analyses nearly six decades of U.S. homicide data to uncover patter
 
 5. Insight Generation
    - Identified trends, patterns, and anomalies
-  
-
----
-
-
-## 📸 Dashboard Previews
-
-![Dashboard 1](images/dashboard1.png)
-![Dashboard 2](images/dashboard2.png)
-![Dashboard 3](images/dashboard3.png)
 
 
 ---
@@ -112,3 +122,12 @@ This project analyses nearly six decades of U.S. homicide data to uncover patter
 ## Conclusion
 
 This project demonstrates how large-scale crime data can be transformed into meaningful insights using data visualisation. The findings highlight the importance of data-driven approaches in understanding crime patterns and supporting informed decision-making.
+
+
+---
+
+
+## 🚀 Future Improvements
+- Predictive modelling for homicide trends
+- Real-time dashboard integration
+- Deeper analysis of unsolved cases
